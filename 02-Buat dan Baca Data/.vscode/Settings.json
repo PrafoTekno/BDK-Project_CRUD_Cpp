@@ -6,6 +6,8 @@
     "workbench.colorTheme" : "Atom One Dark",
     "workbench.iconTheme": "vscode-icons",
     "files.associations": {
-        "iostream": "cpp"
+        "iosfwd": "cpp",
+        "iostream": "cpp",
+        "*.tcc": "cpp"
     }
 }
